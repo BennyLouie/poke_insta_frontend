@@ -2,6 +2,8 @@ Pokemon Instagram Frontend
 
 ## This app has been deployed to Heroku: https://pokemon-instagram.herokuapp.com/
 
+## Demo: https://youtu.be/opgfMtRep94
+
 ## Tools used
 
 This app is built using Rails [6.0] as a backend to store and retrieve data using a PostgreSQL database. 

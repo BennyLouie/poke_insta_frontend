@@ -2,6 +2,8 @@ Pokemon Instagram Frontend
 
 ## This app has been deployed to Heroku: https://pokemon-instagram.herokuapp.com/
 
+## Blog: https://medium.com/@bennylouie/mod-3-project-pokeinstagram-8864895c091c
+
 ## Demo: https://youtu.be/opgfMtRep94
 
 ## Tools used

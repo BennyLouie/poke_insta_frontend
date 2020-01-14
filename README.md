@@ -4,7 +4,7 @@ Pokemon Instagram Frontend
 
 ## Blog: https://medium.com/@bennylouie/mod-3-project-pokeinstagram-8864895c091c
 
-## Demo: https://youtu.be/opgfMtRep94
+## Demo: https://youtu.be/pa_Q3r7jscI
 
 ## Tools used
 
